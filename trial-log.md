@@ -61,5 +61,5 @@
 - Bundle: `~/workspace/make-fun/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85-bundle.tar.gz`, sha256 `8ee521f67eb1ee7e1f19b251d4ba122212abb22f9e19173466c5ea792c981241`
 - Re-check: 14 passed, 0 failed, 5 skipped (thinking_reproduces 77.2%, thinking_priced pass)
 - Submitted 2026-11-24T00:03:37.613Z, submission `01a20add-7e28-7468-91a3-26d97a53e5bf`, commit `cfcde36582c1def99f054c7d5aa4481088c24355`
-- Status at submit +1 min: stage submitted (checks still running); scored pending — re-checked below
+- Status at submit +1 min: stage submitted (checks still running); re-checked ~00:05Z: **stage scored**
 - Claim code stored in `~/workspace/make-fun/drive-backup/claim-codes-warning-label.txt` (never in chat)
