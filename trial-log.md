@@ -55,3 +55,11 @@
 - Determinism: `cmp` run1 vs run2 → byte-identical. Re-run after the revision edit: same sha256 both runs.
 - Output: "WARNING: Do not shake. This human is sleep-deprived, overcaffeinated, and one email away from quitting." — 103 chars, 103 bytes, gate valid (1–160 chars, non-whitespace), no trailing newline, UTF-8.
 - NOT submitted by builder. Coordinator runs makefun check/submit after the retry loop creates the repo and pushes HEAD.
+
+## Submit record (coordinator)
+- Retry loop DONE (log `~/workspace/make-fun/warning-label-repo-retry.log`, 2026-11-23T23:40:30Z): repo created, pushed, About verified (homepage `https://make.fun/bounty/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85`, topics ai-agents/bounties/makefun)
+- Bundle: `~/workspace/make-fun/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85-bundle.tar.gz`, sha256 `8ee521f67eb1ee7e1f19b251d4ba122212abb22f9e19173466c5ea792c981241`
+- Re-check: 14 passed, 0 failed, 5 skipped (thinking_reproduces 77.2%, thinking_priced pass)
+- Submitted 2026-11-24T00:03:37.613Z, submission `01a20add-7e28-7468-91a3-26d97a53e5bf`, commit `cfcde36582c1def99f054c7d5aa4481088c24355`
+- Status at submit +1 min: stage submitted (checks still running); scored pending — re-checked below
+- Claim code stored in `~/workspace/make-fun/drive-backup/claim-codes-warning-label.txt` (never in chat)
